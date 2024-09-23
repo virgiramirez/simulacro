@@ -1,0 +1,3 @@
+-- REPORTE BOTONES -- 
+
+Comportamiento incorrecto de los botones.
