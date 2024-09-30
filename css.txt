@@ -1,3 +1,0 @@
--- PÁGINA DE GESTIÓN DE TURNOS --
-Se aplica la modificación, agregandole estilo a la página.
-Se le agrega una foto de un perro.
