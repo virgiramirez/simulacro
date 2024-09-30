@@ -1,3 +1,8 @@
 -- CATEGORÍA DE PRODUCTOS Y/O SERVICIOS --
 Estructura de página de productos y servicios.
+<<<<<<< HEAD
 Modifico este archivo html yo
+=======
+
+Virgi
+>>>>>>> 649a481015d6899f2bed10c6ba7bc8a4e18603a2
